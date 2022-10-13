@@ -30,6 +30,11 @@
 
 </div>
 
+# HTML SIMULATOR
+An editor that facilitates the writing of code is the HTML Code Editor. Using straightforward text editors like notepad, HTML files can be generated.
+
+Its core functionality is the ability to write code in the browser and view the results as you construct. An effective and freeing online code editor for developers of any experience level, but especially liberating for those just starting out with coding. It largely focuses on the preprocessing syntaxes that result in front-end languages like HTML, CSS, and JavaScript.
+
 ## Project Description
 
 This is a project particularly aimed at guideing the beginners who want to learn and explore various forms of coding like Web Developement , App Developement , Machine Learning , Blockchain , Competitve Coding etc . This is a open source project and contributions are welcome from anyone who wants to contribute . Go through the [CONTRIBUTING.md](https://github.com/ACM-Thapar/CS_COURSE_GUIDE/blob/master/CONTRIBUTING.md) file if you want to contribute . The project structure is as follows :- 
