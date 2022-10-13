@@ -6,13 +6,13 @@
 }
 body{
     background-color: #333642;
-    overflow-x: 0 !important;
+    /* overflow-x: 0 !important; */
 }
 
 .container{
     height: 100vh;
     width: 100vwh;
-    display : grid;
+    display : contents;
     grid-template-rows : 1fr 1fr;
     grid-gap : 10px;
     overflow-x: 0 !important;
